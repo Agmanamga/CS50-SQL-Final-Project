@@ -5,6 +5,10 @@ edx id: dendy_kurniary
 
 Video overview: <https://www.youtube.com/watch?v=rU_9FgZHEk4>
 
+## Dataset Source
+15,000 Music Tracks - 19 Genres (w/ Spotify Data)
+<https://www.kaggle.com/datasets/thebumpkin/10400-classic-hits-10-genres-1923-to-2023>
+
 ## Scope
 
 The purpose of this database is to store, organize, and retrieve data related to classic hit songs. This includes data on artists, tracks, genres, and the musical attributes of each track such as danceability, energy, tempo, etc. The database is designed to make it easy to query and analyze songs, artists, and genres, while also allowing users to study the musical attributes of tracks.
